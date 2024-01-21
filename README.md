@@ -1,6 +1,7 @@
 # Hello
 
 ![](https://img.shields.io/badge/C++-Language-informational?style=flat&logo=cplusplus&logoColor=e3e3e3&color=f29d57)
+![](https://img.shields.io/badge/Lua-Language-informational?style=flat&logo=lua&logoColor=e3e3e3&color=f29d57)
 ![](https://img.shields.io/badge/Visual%20Studio-Editor-informational?style=flat&logo=visualstudio&logoColor=e3e3e3&color=f29d57)
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=e3e3e3&color=f29d57)
 
