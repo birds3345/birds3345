@@ -5,6 +5,10 @@
 ![](https://img.shields.io/badge/Visual%20Studio-Editor-informational?style=flat&logo=visualstudio&logoColor=e3e3e3&color=f29d57)
 ![](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=Windows&logoColor=e3e3e3&color=f29d57)
 
+<p align="left">
+  <img style="text-align:center;" src="https://komarev.com/ghpvc/?username=birds3345&style=flat&color=f29d57">
+</p>
+
 
 ## Stats
 <a href="#">
