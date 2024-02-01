@@ -12,9 +12,9 @@
 
 ## Stats
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=birds3345&count_private=true&show_icons=true&line_height=27&icon_color=f29d57&text_color=e3e3e3&bg_color=171822&title_color=f29d57&border_color=242633&border_radius=5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=birds3345&count_private=true&show_icons=true&line_height=27&icon_color=f29d57&text_color=e3e3e3&bg_color=171822&title_color=f29d57&border_color=f29d57&border_radius=5">
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birds3345&langs_count=4&text_color=e3e3e3&bg_color=171822&title_color=f29d57&border_color=242633&border_radius=5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birds3345&langs_count=4&text_color=e3e3e3&bg_color=171822&title_color=f29d57&border_color=f29d57&border_radius=5">
 </a>
