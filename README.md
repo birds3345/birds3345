@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/Rust-Language-informational?style=flat&logo=rust&logoColor=e3e3e3&color=f29d57)
 ![](https://img.shields.io/badge/Lua-Language-informational?style=flat&logo=lua&logoColor=e3e3e3&color=f29d57)
 
+![](https://img.shields.io/badge/Neovim-Editor-informational?style=flat&logo=neovim&logoColor=e3e3e3&color=f29d57)
 ![](https://img.shields.io/badge/Visual%20Studio-Editor-informational?style=flat&logo=visualstudio&logoColor=e3e3e3&color=f29d57)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Editor-informational?style=flat&logo=visualstudiocode&logoColor=e3e3e3&color=f29d57)
 
